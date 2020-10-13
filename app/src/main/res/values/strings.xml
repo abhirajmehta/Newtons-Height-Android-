@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Newtons Height</string>
+    <string name="line_1">1.The calculations provide you a rough idea of the height</string>
+    <string name="line_2">2.Works efficiently for heights in between 10 to 200 ft</string>
+    <string name="line_3">3.Start timer when you drop the object and stop when it reaches the ground</string>
+    <string name="line_4">4.It is based on Newton\'s Second Law of Motion. The weight of the object doesn\'t matter for heights less than 200 ft but after that air resistance comes into picture.</string>
+    <string name="line_5">5.If you want to know more, you can read about Newton\'s Laws of Motions on Wikipedia</string>
+</resources>
